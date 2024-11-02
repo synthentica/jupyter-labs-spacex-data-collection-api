@@ -14,3 +14,6 @@ mass, and launch site?
 • Under what conditions would stage one of the Falcon 9 most likely land successfully?
 • The project does not only contribute to the betterment of SpaceX's operation but also serves as a case study for
 other aerospace companies that would be looking onward to minimize launch costs using reusable technology.
+
+
+PDF https://drive.google.com/file/d/1W_TOtWneBjgXLygdoz5H0R2v5YgTzaLo/view?usp=drive_link
